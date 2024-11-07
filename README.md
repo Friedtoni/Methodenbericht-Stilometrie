@@ -14,7 +14,7 @@ Für die stilistischen Untersuchungen der Texten aus der Zeit vor und nach der F
 Die Texte vor und nach der Französischen Revolution sind im Ordner "Methodenbericht_FranzRev_stylo" zu finden. 
 
 Der Ordner "Korpus_Goethe und Schiller" enthält die ausgewählten Texte von Goethe und Schiller, die für die Analyse mit *stylo()* verwendet wurden. 
-Der Ordner Goethe und Schiller_oppose enthält neben den selbigen Texten außerdem die für die Analyse mit *stylo()* und *oppose()* erfoderliche Ordnerstruktur.
+Der Ordner "Goethe und Schiller_oppose" enthält neben den selbigen Texten außerdem die für die Analyse mit *stylo()* und *oppose()* erfoderliche Ordnerstruktur.
 
 
 Die Visualisierungen der stilometrischen Analysen mit stylo in RStudio befinden sich jeweils in den Ordnern "Plots Methodenbericht_FranzRev_stylo" sowie in "Plots Goethe und Schiller".
