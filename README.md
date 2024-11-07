@@ -11,7 +11,7 @@ Ziel der Fallstudie sollte eine mögliche Beantwortung der Frage liefern: Lässt
 
 Für eine stilistische Untersuchung von Texten aus der Zeit um die Französische Revolution sowie für einen Vergleich der beiden Autoren Johann Wolfgang von Goethe und Friedrich Schiller, deren Freundschaft womöglich auch in ihren Werken deutlich werden könnte, wurde jeweils ein Korpus erstellt. 
 
-Die Texte vor und nach der Französischen Revolution sind im Ornder "Methodenbericht_FranzRev_stylo". 
+Die Texte vor und nach der Französischen Revolution sind im Ordner "Methodenbericht_FranzRev_stylo". 
 
 Der Ordner "Korpus_Goethe und Schiller" enthält die ausgewählten Texte von Goethe und Schiller, die für die Analyse mit *stylo()* verwendet wurden. 
 Der Ordner Goethe und Schiller_oppose enthält neben den selbigen Texten außerdem die für die Analyse mit *stylo()* und *oppose()* erfoderliche Ordnerstruktur.
