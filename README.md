@@ -9,12 +9,13 @@ Die Methode der Stilometrie sollte in einem Methodenbericht mit ihrer Funktionsw
 Ziel der Fallstudie sollte eine mögliche Beantwortung der Frage sein: Lässt sich ein historische Ereignis, wie die Französischen Revolution von 1789 in den Texten zeitgenössischer deutschprachiger Schriftsteller anhand stilistischer Veränderungen im Schreibstil nachweisen? Sowie lassen sich Texte von ausgewählten Autoren, wie Schiller und Goethe, stilometrisch vergleichen und welche Unterschiede oder Gemeinsamkeiten lassen sich mithilfe der Methode ausmachen? Zudem sollte untersucht werden, ob sich Texte anhand der stilometrischen Analyse nach Epochen ordnen lassen.
 
 
-Für die stilistischen Untersuchungen der Texten aus der Zeit vor und nach der Französischen Revolution sowie für einen Vergleich der beiden Autoren Johann Wolfgang von Goethe und Friedrich Schiller, deren Freundschaft womöglich auch in ihren Werken deutlich werden könnte, wurde jeweils zwei Korpora mit Texten aus dem GerDraCor erstellt. 
+Für die stilistischen Untersuchungen der Texten aus der Zeit vor und nach der Französischen Revolution sowie für einen Vergleich der beiden Autoren Johann Wolfgang von Goethe und Friedrich Schiller, deren Freundschaft womöglich auch in ihren Werken deutlich werden könnte, wurde jeweils zwei Korpora mit Texten aus dem GerDraCor [[Fischer, Frank, Ingo Börner, Mathias Göbel, u. a. „Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama“. Proceedings of DH2019: „Complexities“, Utrecht, July 9–12, 2019, 2019. https://doi.org/10.5281/zenodo.4284002.]]
+ erstellt. 
 
-Die Texte vor und nach der Französischen Revolution sind im Ordner "Methodenbericht_FranzRev_stylo" zu finden. 
+Die Texte *vor* und *nach der Französischen Revolution* sind im Ordner **"Methodenbericht_FranzRev_stylo"** zu finden. 
 
-Der Ordner "Korpus_Goethe und Schiller" enthält die ausgewählten Texte von Goethe und Schiller, die für die Analyse mit *stylo()* verwendet wurden. 
-Der Ordner "Goethe und Schiller_oppose" enthält neben den selbigen Texten außerdem die für die Analyse mit *stylo()* und *oppose()* erfoderliche Ordnerstruktur.
+Der Ordner **"Korpus_Goethe und Schiller"** enthält die ausgewählten Texte von Goethe und Schiller, die für die Analyse mit *stylo()* verwendet wurden. 
+Der Ordner **"Goethe und Schiller_oppose"** enthält neben den selbigen Texten außerdem die für die Analyse mit *stylo()* und *oppose()* erfoderliche Ordnerstruktur.
 
 
-Die Visualisierungen der stilometrischen Analysen mit stylo in RStudio befinden sich jeweils in den Ordnern "Plots Methodenbericht_FranzRev_stylo" sowie in "Plots Goethe und Schiller".
+Die **Visualisierungen** der stilometrischen Analysen mit stylo in RStudio befinden sich jeweils in den Ordnern **"Plots Methodenbericht_FranzRev_stylo"** sowie in **"Plots Goethe und Schiller"**.
